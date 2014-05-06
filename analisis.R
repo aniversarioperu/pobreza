@@ -36,4 +36,10 @@ a2013[1,1] <- 2013
 
 matriz <- rbind(a2005, a2006, a2007, a2008, a2009, a2010, a2011, a2012, a2013)
 
-ggplot(matriz, aes(Año, cumsum(Lima))) + geom_path(colour="#cbc9e2", size=1)
+ggplot(matriz, aes(Año)) + 
+  geom_path(aes(y=cumsum(Lima)), colour="blue", size=1) +
+  geom_path(aes(y=cumsum(Cajamarca)), colour="green", size=1) +
+  geom_path(aes(y=cumsum(Ica)), colour="#b3cde3", size=1) +
+  geom_path(aes(y=cumsum(Madre.de.Dios)), colour="#8c96c6", size=1) +
+  geom_path(aes(y=cumsum(Peru)), colour="red", size=1, linetype="dashed") 
+
