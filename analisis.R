@@ -35,3 +35,5 @@ a2013 <- datos[10,] - datos[9,]
 a2013[1,1] <- 2013
 
 matriz <- rbind(a2005, a2006, a2007, a2008, a2009, a2010, a2011, a2012, a2013)
+
+ggplot(matriz, aes(Año, cumsum(Lima))) + geom_path(colour="#cbc9e2", size=1)
