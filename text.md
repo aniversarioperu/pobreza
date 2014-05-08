@@ -18,7 +18,7 @@ Columnas y notas de prensa
  [RPP](http://www.rpp.com.pe/2014-05-05-aseguran-que-modelo-economico-de-santos-afecto-a-cajamarca-noticia_689692.html),
  [Andina](http://www.andina.com.pe/agencia/noticia-primer-lugar-cajamarca-pobreza-es-responsabilidad-santos-afirman-504662.aspx#.U2kpvnV53oM),
 [Correo](http://diariocorreo.pe/ultimas/noticias/9368245/tema-del-dia/santos-tiene-a-cajamarca-con-mas-de-50-de-p)
-y [Peru21](http://www.rpp.com.pe/2014-05-05-aseguran-que-modelo-economico-de-santos-afecto-a-cajamarca-noticia_689692.html))
+y [Peru21](http://peru21.pe/impresa/izquierda-esa-buena-2181807))
  que discuten los datos del INEI, y/o recojen opinión de entendidos en
  el tema, concuerdan en una
 cosa: 
@@ -81,25 +81,30 @@ En nuestra analogía de rally, durante los años 2012 y 2013, los autos de Lima 
 Cajamarca han avanzado a la misma velocidad. Sus pilotos tienen la misma
 destreza a pesar que uno vaya adelante del otro.
 
+# Refutando a Aldo Mariátegui
+Vamos a tomar la columna que nos ha indignado más para refutar punto por punto.
+Aquí pueden leer el texto completo
+<http://peru21.pe/impresa/izquierda-esa-buena-2181807>.
 
-Si Conga tiene la culpa del 52% de pobreza
-en Cajamarca porqué Entre el 2012 y el 2013
+> **1.** "todo esto es culpa exclusiva del presidente regional Gregorio Santos, el
+cura Arana"
+Si todo es culpa de Gregorio Santos, debemos felicitarlo por tener el mismo
+desempeño en política económica que las autoridades económicas de Lima ya qu
+e las dos regiones redujeron su pobreza en 1.3%.
+
+> **2.** "todo esto es culpa de ... y un grupete más de rojos nocivos"
+En discusiones serias se atacan las ideas y no a las personas. Adjetivos que
+buscan ofender como **grupete de rojos nocivos** son argumentos [*ad hominen*
+del tipo abusivo](http://es.wikipedia.org/wiki/Argumento_ad_hominem)
+que deben ser evitados en discusiones serias.
 
 
-l
-objetivo de la carrera es llegar a la metaPAra
-saber cuál de los 
-
-Este es uno de los gráficos principales 
-
-columna 
 
 datos 2004--2011 http://grancomboclub.com/wp-content/uploads/2012/06/IncidenciaDepto20042011.png
 datos 2012--2013 http://www.rpp.com.pe/2014-05-02-inei-la-pobreza-se-incremento-en-ocho-regiones-del-peru-en-el-2013-noticia_689046.html
 
 cobre 10 años http://www.infomine.com/investment/metal-prices/copper/10-year/
 
-noticias criticas
 
 
 
