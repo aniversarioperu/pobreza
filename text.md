@@ -1,3 +1,23 @@
+Siete refutaciones a la columna de am
+
+Ya en el pasado hemos encontrado que una lectura equivocada de datos
+estadísticos puede causar interpretaciones erróneas de la realidad de las
+cosas.
+
+Todos nos equivocamos. Equivocarse no es pecado porque hasta 
+[Bill Gates se equivocó](http://aniversarioperu.utero.pe/2014/05/04/oie-bill-gates-los-mosquitos-no-son-tan-asesinos-como-crees/).
+
+El INEI ha publicado un informe técnico hace un par de días donde informan
+los niveles de pobreza por cada región para el 2013. Además se incluye datos
+estadísticos sobre el aumento o disminución de pobreza comparando con años
+anteriores al 2013. Lamentablemente hemos encontrado los datos de INEI han sido
+mal intrepretados por algunos líderes políticos y unos pocos medios de prensa.
+
+Los datos de INEI revelan que Cajamarca es la región con mayor pobreza,
+    alcanzando un 52%.
+
+Este es uno de los gráficos principales 
+
 columna http://peru21.pe/impresa/izquierda-esa-buena-2181807
 
 datos 2004--2011 http://grancomboclub.com/wp-content/uploads/2012/06/IncidenciaDepto20042011.png
